@@ -54,10 +54,26 @@ permalink: /people/
 <hr>
 
 {% else %}
-
+<h3>Alumni</h3>
 <br>
 
-| Who are they | When were they here | Where they went |
+| Who | What | Where |
 | :------------- |:-------------| :-----------|
+Josh Attenberg | PhD Student | Detectica
+Yen-Yu Chen | PhD Student |Blippar
+Maria Christoforaki | PhD Student | Yelp
+Konstantinos Dimopoulos | PhD Student | Audible
+Shuai Ding | PhD Student | Thumbtack
+Qingqing Gan | PhD Student | Microsoft
+Shoshana (Bluma) Gelley | PhD Student | American Express
+Jinru He | PhD Student | Pinterest
+Utku Irmak | PhD Student | Pinterest
+Xiaohui Long | PhD Student | Microsoft
+Xiang Liu | PhD Student | Spotify
+Sergey Nepomnyachiy | PhD Student | Bloomberg
+Hao Yan | PhD Student | Uber
+Qi Wang | PhD Student | IBM
+Jiangong Zhang | PhD Student | Amazon
+
 {% endif %}
 {% endfor %}
