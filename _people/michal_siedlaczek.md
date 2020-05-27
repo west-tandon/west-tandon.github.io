@@ -1,8 +1,7 @@
 ---
-name: Antonio Mallia
+name: Michal Siedlaczek
 position: phdstudent
-avatar: antonio_mallia.jpg
-joined: 2018
+avatar: michal_siedlaczek.jpg
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

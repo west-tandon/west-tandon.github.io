@@ -22,7 +22,7 @@ permalink: /people/
  {% elsif role == 'pi' %}
 <h3>Principal Investigator</h3>
  {% elsif role == 'phdstudent' %}
-<h3>Graduate Students</h3>
+<h3>PhD Students</h3>
  {% elsif role == 'masterstudent' %}
 <h3>Research Staff</h3>
  {% elsif role == 'visiting' %}
@@ -47,7 +47,7 @@ permalink: /people/
           {% endif %}
           <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
         </p>
-      </div>    
+      </div>
     {% endif %}
   {% endfor %}
 </div>
