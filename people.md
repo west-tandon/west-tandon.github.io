@@ -54,6 +54,9 @@ permalink: /people/
 <hr>
 
 {% else %}
+
+{% endif %}
+{% endfor %}
 <h3>Alumni</h3>
 <br>
 
@@ -74,6 +77,3 @@ Sergey Nepomnyachiy | PhD Student | Bloomberg
 Hao Yan | PhD Student | Uber
 Qi Wang | PhD Student | IBM
 Jiangong Zhang | PhD Student | Amazon
-
-{% endif %}
-{% endfor %}
